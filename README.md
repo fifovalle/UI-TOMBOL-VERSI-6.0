@@ -1,4 +1,4 @@
-**Selamat Datang di "UI Tombol Versi 5.0" User Interface! 🚀**
+**Selamat Datang di "UI Tombol Versi 6.0" User Interface! 🚀**
 
 Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat lunak. Dari aplikasi web hingga proyek mobile, temukan ragam proyek yang mencerminkan dedikasi saya dalam teknologi.
 
@@ -9,7 +9,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 ### 🚀 Fitur Utama
 
-- **User Interface:** Tombol Versi 5.0
+- **User Interface:** Tombol Versi 6.0
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -20,7 +20,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa tampilan halaman website :
 
-![Screenshot 2024-05-12 182555](https://github.com/fifovalle/UI-TOMBOL-VERSI-5.0/assets/90078068/db60a2ce-f7c9-4260-a5fd-afece0522a94)
+![Screenshot 2024-05-12 184013](https://github.com/fifovalle/UI-TOMBOL-VERSI-6.0/assets/90078068/3aeb2054-a1fc-4401-8115-6219fe4d5630)
 
 ## 📬 Kontak
 
@@ -35,7 +35,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/UI-TOMBOL-VERSI-5.0.git
+   git clone https://github.com/fifovalle/UI-TOMBOL-VERSI-6.0.git
 
    ```
 
